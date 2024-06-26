@@ -1,4 +1,4 @@
-# --- Python Mini Project - Library Management System -----
+# ************* Library Management System *************
 # Create list_of_books.txt file 
 # List of books :
 
