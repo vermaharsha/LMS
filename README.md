@@ -15,3 +15,38 @@ The Library Management System (LMS) is a Python-based application designed to ma
 
    ```bash
    git clone https://github.com/vermaharsha/LibraryManagementSystem.git
+
+2. Navigate to the project directory:
+
+```
+cd LibraryManagementSystem
+```
+
+3. Ensure you have Python extension is installed.
+4. Run the application:
+```
+python lms.py
+```
+
+## Usage
+
+1. On running the script, you will be prompted with a menu.
+2. Use the following keys to interact:
+D: Display Books
+I: Issue Books
+A: Add Books
+R: Return Books
+Q: Quit
+
+
+## Contributing
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+
+## Author
+`Harsha Verma`
